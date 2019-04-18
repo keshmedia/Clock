@@ -1,0 +1,15 @@
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\bin\Release\Clock.exe.config
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\bin\Release\Clock.exe
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\bin\Release\Clock.pdb
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\Clock.csprojAssemblyReference.cache
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\MainWindow.g.cs
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\App.g.cs
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\Clock_MarkupCompile.cache
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\Clock_MarkupCompile.lref
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\MainWindow.baml
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\Clock.g.resources
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\Clock.Properties.Resources.resources
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\Clock.csproj.GenerateResource.cache
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\Clock.csproj.CoreCompileInputs.cache
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\Clock.exe
+C:\Users\ennis\Desktop\FILES\Visual Studio\Clock\Clock\obj\Release\Clock.pdb
